@@ -1,0 +1,83 @@
+[2025-09-28 14:28:01] SUCESSO: Atualizando lista de pacotes
+Atingido:1 http://br.archive.ubuntu.com/ubuntu plucky InRelease
+Obter:2 http://br.archive.ubuntu.com/ubuntu plucky-updates InRelease [126 kB]
+Obter:3 http://br.archive.ubuntu.com/ubuntu plucky-backports InRelease [126 kB]
+Atingido:4 https://dl.google.com/linux/chrome/deb stable InRelease
+Obter:5 http://br.archive.ubuntu.com/ubuntu plucky-updates/main amd64 Components [58,6 kB]
+Obter:6 http://br.archive.ubuntu.com/ubuntu plucky-updates/restricted amd64 Components [212 B]
+Obter:7 http://br.archive.ubuntu.com/ubuntu plucky-updates/universe amd64 Components [25,6 kB]
+Obter:8 http://security.ubuntu.com/ubuntu plucky-security InRelease [126 kB]
+Obter:9 http://br.archive.ubuntu.com/ubuntu plucky-updates/multiverse amd64 Components [212 B]
+Obter:10 http://br.archive.ubuntu.com/ubuntu plucky-backports/main amd64 Components [212 B]
+Obter:11 http://br.archive.ubuntu.com/ubuntu plucky-backports/restricted amd64 Components [216 B]
+Obter:12 http://br.archive.ubuntu.com/ubuntu plucky-backports/universe amd64 Components [3.128 B]
+Obter:13 http://br.archive.ubuntu.com/ubuntu plucky-backports/multiverse amd64 Components [216 B]
+Obter:14 https://mega.nz/linux/repo/xUbuntu_25.04 ./ InRelease [2.967 B]
+Obter:15 http://security.ubuntu.com/ubuntu plucky-security/main amd64 Components [16,5 kB]
+Obter:16 http://security.ubuntu.com/ubuntu plucky-security/restricted amd64 Components [212 B]
+Obter:17 http://security.ubuntu.com/ubuntu plucky-security/universe amd64 Components [3.668 B]
+Obter:18 http://security.ubuntu.com/ubuntu plucky-security/multiverse amd64 Components [212 B]
+Obtidos 490 kB em 2s (265 kB/s)
+Lendo listas de pacotes...
+Construindo árvore de dependências...
+Lendo informação de estado...
+2 pacotes podem ser atualizados. Execute 'apt list --upgradable' para vê-los.
+
+[2025-09-28 14:28:03] SUCESSO: Atualizando pacotes
+Lendo listas de pacotes...
+Construindo árvore de dependências...
+Lendo informação de estado...
+Calculando atualização...
+Calculando atualização...
+Ainda não atualizando devido ao faseamento:
+  fwupd  libfwupd3
+
+Resumo:
+  Atualizando: 0, Instalando: 0, Removendo: 0, Não atualizando: 2
+
+[2025-09-28 14:28:13] SUCESSO: Removendo pacotes órfãos
+Lendo listas de pacotes...
+Construindo árvore de dependências...
+Lendo informação de estado...
+Resolvendo dependências...
+Resumo:
+  Atualizando: 0, Instalando: 0, Removendo: 0, Não atualizando: 2
+
+[2025-09-28 14:28:13] SUCESSO: Limpando cache do APT
+
+[2025-09-28 14:34:08] SUCESSO: Atualizando lista de pacotes
+Atingido:1 http://br.archive.ubuntu.com/ubuntu plucky InRelease
+Atingido:2 http://br.archive.ubuntu.com/ubuntu plucky-updates InRelease
+Atingido:3 http://br.archive.ubuntu.com/ubuntu plucky-backports InRelease
+Atingido:4 https://dl.google.com/linux/chrome/deb stable InRelease
+Atingido:5 http://security.ubuntu.com/ubuntu plucky-security InRelease
+Obter:6 https://mega.nz/linux/repo/xUbuntu_25.04 ./ InRelease [2.967 B]
+Obtidos 2.967 B em 1s (2.704 B/s)
+Lendo listas de pacotes...
+Construindo árvore de dependências...
+Lendo informação de estado...
+2 pacotes podem ser atualizados. Execute 'apt list --upgradable' para vê-los.
+
+[2025-09-28 14:34:10] SUCESSO: Atualizando pacotes
+Lendo listas de pacotes...
+Construindo árvore de dependências...
+Lendo informação de estado...
+Calculando atualização...
+Calculando atualização...
+Ainda não atualizando devido ao faseamento:
+  fwupd  libfwupd3
+
+Resumo:
+  Atualizando: 0, Instalando: 0, Removendo: 0, Não atualizando: 2
+
+[2025-09-28 14:34:11] SUCESSO: Removendo pacotes órfãos
+Lendo listas de pacotes...
+Construindo árvore de dependências...
+Lendo informação de estado...
+Resolvendo dependências...
+Resumo:
+  Atualizando: 0, Instalando: 0, Removendo: 0, Não atualizando: 2
+
+[2025-09-28 14:34:11] SUCESSO: Limpando cache do APT
+
+[2025-09-28 14:34:11] Nenhuma falha de login encontrada.
