@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 #----------------------
-# "---- Autor: Zenio zndv@outlook.com 21977036020
-#"---- última atualização: 14/05/25
-# para sair do script dê duas vezes ctrl c
+# ---- Autor: Zenio zndv@outlook.com 21977036020
+# ---- última atualização: 14/05/25
+# --- rodar no Shell, para sair do script dê duas vezes ctrl c
 
 
 from rich.console import Console
