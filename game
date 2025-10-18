@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+# script do curso de Python para DevOps
+# para rodar  python3 game
+print("Shall we play a game?\n")
+
