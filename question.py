@@ -1,0 +1,1 @@
+print("como acesso o git hub pelo Windows, uma vez que criei uma chave ssh no Linux Ubuntu?")
